@@ -1,0 +1,59 @@
+.dark_navbar {
+  background-color: #0f1826;
+}
+
+.dark__nav-link {
+  color: #fff;
+}
+
+.dark__nav-btn {
+  background-color: #272727;
+  background-image: url(../images/logoIcons/sun.svg);
+}
+
+.dark__intro {
+  background-color: #09111b;
+  color: #fff;
+}
+
+.dark__title {
+  color: #fff;
+}
+
+.dark__advantage {
+  background-color: #021923;
+  color: #fff;
+}
+
+.dark__advantage_btn-img {
+  background-color: #13e0b2;
+}
+
+.dark__text {
+  color: #bbe7ff;
+}
+
+.dark__grid-item:hover {
+  box-shadow: 0 0 5px 0 #fff;
+}
+
+.dark__form-box {
+  background-color: rgba(249, 248, 247, 0.23);
+}
+
+.dark__form-label {
+  color: #ba8d5b;
+}
+
+.label-error {
+  color: red;
+}
+
+.dark__body {
+  background-color: #09111b;
+}
+
+.dark__footer-item {
+  color: #fff;
+  background-color: transparent;
+}
